@@ -1,0 +1,38 @@
+[
+	{
+		"deptId": "d001",
+		"deptName": "HR"
+	},
+	{
+		"deptId": "d002",
+		"deptName": "Admin"
+	},
+	{
+		"deptId": "d003",
+		"deptName": "Finance"
+	},
+	{
+		"deptId": "d004",
+		"deptName": "Development"
+	},
+	{
+		"deptId": "d005",
+		"deptName": "Production"
+	},
+	{
+		"deptId": "d006",
+		"deptName": "Operational"
+	},
+	{
+		"deptId": "d007",
+		"deptName": "Support"
+	},
+	{
+		"deptId": "d008",
+		"deptName": "Transport"
+	},
+	{
+		"deptId": "d009",
+		"deptName": "Quality"
+	}
+]

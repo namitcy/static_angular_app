@@ -1,0 +1,58 @@
+[
+	{
+		"empId": "e10001",
+		"empName": "Chintan Mehta",
+		"designation": "System Engineer",
+		"salary": 20000,
+		"city": "Ahmedabad"
+	},
+	{
+		"empId": "e10002",
+		"empName": "Manish Patadiya",
+		"designation": "Software Developer",
+		"salary": 25000,
+		"city": "Ahmedabad"
+	},
+	{
+		"empId": "e10003",
+		"empName": "Ketan Jethva",
+		"designation": "Software Developer",
+		"salary": 22000,
+		"city": "Gandhinagar"
+	},
+	{
+		"empId": "e10004",
+		"empName": "Sagar Joshi",
+		"designation": "Java Developer",
+		"salary": 29000,
+		"city": "Rajkot"
+	},
+	{
+		"empId": "e10005",
+		"empName": "Ankit Sorathiya",
+		"designation": "Sr. Software Developer",
+		"salary": 40000,
+		"city": "Ahmedabad"
+	},
+	{
+		"empId": "e10006",
+		"empName": "Asif Saiyad",
+		"designation": "Jr. Software Engineer",
+		"salary": 10000,
+		"city": "Bhavnagar"
+	},
+	{
+		"empId": "e10007",
+		"empName": "Vishal Patel",
+		"designation": "Developer",
+		"salary": 25200,
+		"city": "Surat"
+	},
+	{
+		"empId": "e10008",
+		"empName": "Kishan Kankhara",
+		"designation": "System Analyst",
+		"salary": 50000,
+		"city": "Baroda"
+	}
+]
